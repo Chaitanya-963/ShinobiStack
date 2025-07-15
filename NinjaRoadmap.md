@@ -6,8 +6,9 @@
 - [x] Day 2: Lists
 - [x] Day 3: Links, Media
 - [x] Day 4: Tables
-- [ ] Day 5: Forms
-- [ ] Day 6: Semantic Tags
+- [x] Day 5: Forms
+- [x] Day 6: Semantic Tags
+- [x] Day 7: Portfolio Website(HTML & CSS)
 
 ## 🎯 Upcoming Phases
 
